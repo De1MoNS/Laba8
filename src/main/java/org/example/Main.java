@@ -16,8 +16,8 @@ public class Main {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        String surname = "Vertikov"; // Ваша фамилия
-        String name = "Yaroslav.txt"; // Ваше имя
+        String surname = "Vertikov";
+        String name = "Yaroslav.txt";
 
         try {
             // a) Создайте директорию <surname>
